@@ -1,7 +1,48 @@
-.box_1{
+
+.box_1 {
     background-color: #1F2937;
     color: white;
 }
+
 ul{
     list-style-type: none;
+}
+
+.text_1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.text_2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+.header{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.header_2{
+    font-size: 32px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.box_3{
+    background-color: #E5E7EB;
+}
+.quote{
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
+img {
+    width: auto;
+    height: 150px;
 }
