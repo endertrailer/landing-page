@@ -136,3 +136,35 @@ img {
   width: 230px;
   height: auto;
 }
+.box_3 {
+  background-color: #E5E7EB;
+  padding: 20px;
+  text-align: center;
+}
+
+.quote {
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1F2937;
+}
+
+.quote_teller {
+  margin-top: 10px;
+  color: #888;
+}
+
+.cta-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #FFF;
+  background-color: #1F2937;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background-color: #15202B;
+}
