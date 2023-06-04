@@ -46,7 +46,12 @@ ul {
 .text_2 {
   font-size: 25px;
   color: #E5E7EB;
-  align-self: center;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+  background-color: #1F2937;
+  border-radius: 5px;
 }
 
 .box_2 {
@@ -121,5 +126,13 @@ img {
 }
 .header-text{
   
-  font-size: 30px;
+  font-size: 48px;
+  font-weight: bold;
+  color: #F9FAF8;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.ramen-img{
+  width: 230px;
+  height: auto;
 }
